@@ -1,1 +1,1 @@
-Order Food Project
+Café Online Ordering System - Order Food Project
